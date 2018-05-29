@@ -22,8 +22,6 @@ tasks.data
 
 all_user_tasks = user_tasks.all()
 len(all_user_tasks)
-
-keyword_details = mt.keyword('api').details.get()
 ```
 
 ## Response
