@@ -1,0 +1,1535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TEam",
+				"TeamGridPyResponse"
+			],
+			[
+				"Qu",
+				"QUOTE_NONNUMERIC\tinstance"
+			],
+			[
+				"max",
+				"max_retries\tparam"
+			],
+			[
+				"Quo",
+				"QUOTE_MINIMAL\tinstance"
+			],
+			[
+				"war",
+				"warning\tfunction"
+			],
+			[
+				"Ac",
+				"AcceptsDateFilter\tclass"
+			],
+			[
+				"Team",
+				"TeamGridPyResponse\tclass"
+			],
+			[
+				"list",
+				"list_report_type"
+			],
+			[
+				"Dimen",
+				"DimensionFilterClause\tclass"
+			],
+			[
+				"R",
+				"RequestBase"
+			],
+			[
+				"Reque",
+				"http_request\tmodule"
+			],
+			[
+				"Re",
+				"RequestBase\tclass"
+			],
+			[
+				"Or",
+				"OrderType\tclass"
+			],
+			[
+				"Me",
+				"MetricFilterClause\tclass"
+			],
+			[
+				"Met",
+				"MetricFilter\tclass"
+			],
+			[
+				"Dim",
+				"DimensionFilter\tclass"
+			],
+			[
+				"Dime",
+				"DimensionFilter\tclass"
+			],
+			[
+				"report",
+				"reportRequests\tstatement"
+			],
+			[
+				"Metri",
+				"MetricType\tclass"
+			],
+			[
+				"di",
+				"dimensionFilterClauses\tstatement"
+			],
+			[
+				"Op",
+				"OPERATOR_UNSPECIFIED"
+			],
+			[
+				"o",
+				"OPERATOR_UNSPECIFIED\tstatement"
+			],
+			[
+				"sist",
+				"sistrix_utils\tmodule"
+			],
+			[
+				"sistrix",
+				"SistrixApi"
+			],
+			[
+				"Db",
+				"DbSearchanalyticsConnector\tclass"
+			],
+			[
+				"db",
+				"gsa_db\tmodule"
+			],
+			[
+				"DbSe",
+				"DbSearchanalyticsConnector"
+			],
+			[
+				"db_dim",
+				"db_dimensions_builder\tmodule"
+			],
+			[
+				"db_sea",
+				"db_searchanalytics_connector\tmodule"
+			],
+			[
+				"db_se",
+				"db_searchanalytics\tmodule"
+			],
+			[
+				"db_sear",
+				"db_searchanalytics_connector\tmodule"
+			],
+			[
+				"db_",
+				"db_searchanalytics_builder\tmodule"
+			],
+			[
+				"D",
+				"DbSearchanalytics\tclass"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"fo",
+				"fontsize\tfunction"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"prog",
+				"progress_decorator\tfunction"
+			],
+			[
+				"das",
+				"dash_core_components\tmodule"
+			],
+			[
+				"placmentUrls",
+				"placementUrlsForEmail"
+			],
+			[
+				"placementUrl",
+				"placementUrlsForEmail"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Sche",
+				"Schema::drop\tDrop an existing database table"
+			],
+			[
+				"Schema",
+				"Schema::drop\tDrop an existing database table"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "teamgrid_py/teamgrid_py.py",
+			"settings":
+			{
+				"buffer_size": 1171,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teamgrid_py/base.py",
+			"settings":
+			{
+				"buffer_size": 1800,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teamgrid_py/endpoints.py",
+			"settings":
+			{
+				"buffer_size": 4396,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teamgrid_py/response.py",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html pr",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set s json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"conver low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"conver lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syn thml",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"synta tet",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synt text",
+				"Set Syntax: Textile"
+			],
+			[
+				"syt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set ql",
+				"Set Syntax: SQL"
+			],
+			[
+				"warp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"set pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"convert to",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"set te",
+				"Set Syntax: Textile"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set s r",
+				"Set Syntax: R"
+			],
+			[
+				"set r",
+				"Set Syntax: R"
+			],
+			[
+				"convert to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set jin",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"set ji",
+				"Set Syntax: Jinja2"
+			],
+			[
+				"set jinja",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"conver to ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert to ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set html\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"st pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"clear",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"python bu",
+				"Build With: Anaconda Python Builder"
+			],
+			[
+				"anaconda",
+				"Build With: Anaconda Python Builder"
+			],
+			[
+				"python",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set java sc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syn sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"set syntax r",
+				"Set Syntax: R"
+			],
+			[
+				"set pyth\t",
+				"Set Syntax: Python"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"regex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Repository"
+			],
+			[
+				"reposito",
+				"Package Control: Remove Repository"
+			],
+			[
+				"repository",
+				"Package Control: Remove Repository"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"set sy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 572.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"which python",
+			"sublime.cache_path()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py"
+	],
+	"file_history":
+	[
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/response.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/setup.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/setup.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/domain.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/metrics_tools.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/README.md",
+		"/E/05_development/python/status-code-checker/logging.log",
+		"/E/05_development/python/status-code-checker/status-code-checker.py",
+		"/E/05_development/python/status-code-checker/url-input.csv",
+		"/E/05_development/python/status-code-checker/url-output.csv",
+		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/E/05_development/python/https-status-checker/url-input.csv",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/Pipfile",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/endpoint_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/method_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/keyword.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/Pipfile.lock",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools1/rest_client.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools1/method_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools1/url.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools1/keyword.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools1/domain.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/method_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/response.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/rest_client.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/endpoints.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/endpoint_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/methods.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/mtPy/rest_client.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/mtPy/methods.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/mtPy/endpoints.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/mtPy/metrics_tools.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/tgpy.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/endpoints.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/metrics_tools.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/endpoints.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/rest_client.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/response.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/request.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/request_base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/MetricsTools/errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/models.py",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/02_customers/Alle/searchappearance/logging.log",
+		"/D/Downloads/sitemap1.xml/sitemap1.xml",
+		"/D/Downloads/sitemap1.xml.gz",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/utils/utils.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/utils/__init__.py",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/01_apis/tg/logging.log",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy/__init__.py",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/01_apis/tg/update_tasks.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/TeamGridPy",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/MetaData/meta_data.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/analytics.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/sistrix.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/dimension.py",
+		"/D/get traction GmbH/Patrick Lürwer - _DATA/gsc-it-fehler/https_www_termfrequenz_de_gsc-it.csv",
+		"/D/get traction GmbH/Patrick Lürwer - _DATA/gsc-it-fehler/http_www_termfrequenz_de_gsc-it.csv",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/01_apis/Sistrix/hcpf/alnatura.csv",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/01_apis/Sistrix/hcpf/paths.csv",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Report/__init__.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/A&O Hostels/05_Workshops/180212 - IT&Content/Final/Schema.org/02_Häuserseite.json",
+		"/C/Users/JohannesKunze/.jupyter/jupyter_nbconvert_config.json",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/metric.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Report/core.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/pivot.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/segments.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/order_by.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/date_range.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/A&O Hostels/05_Workshops/180212 - IT&Content/Final/Schema.org/01_Startseite.json",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/http_request.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/UNICEF/02_Tasks/18_Schema.org/Newsartikel_unicef.json",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/UNICEF/02_Tasks/17_GK_Shop_Mobile/osterkarten-normal.html",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/UNICEF/02_Tasks/17_GK_Shop_Mobile/osterkarten-breit.html",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Request/sampling_level.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/Reporting/__init__.py",
+		"/E/Dropbox (Privat)/01_work/01_Analytics/01_Jupyter/02_customers/news.de/assign_ressorts/query.json",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/utils/ga_utils.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/utils/utils.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/core_reporting.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/Analytics/utils/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/utils/functions.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/utils/__init__.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/02_Workshop/Schema.org/04_blogartikel.json",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/02_Workshop/Übergabedokumente/JSON-LD/04_fillialseite.json",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/SearchConsole/crawl_errors.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/SearchConsole/search_analytics.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/SearchConsole/site_admin.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/SearchConsole/search_console.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/SearchConsole/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/GapiPy/auth.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_fetish.txt",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_buecher.txt",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_drogerie.txt",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_toys.txt",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_dessous.txt",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_spiele.txt",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/keyword.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/domain.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/links.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/client.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/Orion/02_Tasks/01_phrasensegmente/produkte_dessous.txt+",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/SistrixPy/tools/utils.py",
+		"/D/get traction GmbH/Jens Fauldrath - _gettraction/Kunden/A&O Hostels/02_Tasks/13_Domainexport/Domainexport-26.03.2018.csv",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrixPy/sistrix.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrixPy/links.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrixPy/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrixPy/domain.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/sistrix_api.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/utils.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/client.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/__init__.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/api.py",
+		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
+		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"client",
+			"error",
+			"metrics_tools"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "teamgrid_py/teamgrid_py.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								875,
+								875
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "teamgrid_py/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "teamgrid_py/endpoints.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1284,
+								1284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "teamgrid_py/response.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 308.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teamgrid_py.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"request_base.py",
+				"02_Development\\01_python\\GapiPy\\Analytics\\Request\\request_base.py"
+			],
+			[
+				"models.py",
+				"02_Development\\01_python\\TeamGridPy\\models.py"
+			],
+			[
+				"base.py",
+				"02_Development\\01_python\\TeamGridPy\\base.py"
+			],
+			[
+				"sistrix",
+				"02_Development\\01_python\\SistrixPy\\sistrix.py"
+			],
+			[
+				"links",
+				"02_Development\\01_python\\SistrixPy\\links.py"
+			],
+			[
+				"apicallsgsa",
+				"toolbox\\app\\Jobs\\ApiCallsGsa.php"
+			],
+			[
+				"illuminate/pagination/paginator",
+				"toolbox\\vendor\\laravel\\framework\\src\\Illuminate\\Pagination\\Paginator.php"
+			],
+			[
+				"filter.js",
+				"toolbox\\public\\js\\filter.js"
+			],
+			[
+				"viewanalytics.blade",
+				"toolbox\\resources\\views\\analytics\\googlesearchanalytics\\searchanalytics.blade.php"
+			],
+			[
+				"jobssegment",
+				"toolbox\\app\\Jobs\\SegmentGsaData.php"
+			],
+			[
+				"segmentgsadata",
+				"toolbox\\app\\Jobs\\SegmentGsaData.php"
+			],
+			[
+				"segmentationwascreated",
+				"toolbox\\app\\Events\\SegmentationWasCreated.php"
+			],
+			[
+				"runsegmentgsadata",
+				"toolbox\\app\\Listeners\\RunSegmentGsaData.php"
+			],
+			[
+				"esp",
+				"toolbox\\app\\Providers\\EventServiceProvider.php"
+			],
+			[
+				"sistrixseeder",
+				"database\\seeds\\SistrixConfigurationsTableSeeder.php"
+			],
+			[
+				"sistrixmetho",
+				"app\\SistrixMethod.php"
+			],
+			[
+				"sistrixmetric",
+				"app\\SistrixMetric.php"
+			],
+			[
+				"sistrixjob",
+				"app\\SistrixJob.php"
+			],
+			[
+				"queuegsadownloadsforgsarequest",
+				"app\\Listeners\\QueueGsaDownloadsForGsaRequest.php"
+			],
+			[
+				"sistrixjobs",
+				"app\\Http\\Controllers\\Sistrix\\SistrixJobsController.php"
+			],
+			[
+				"sistrixshow",
+				"resources\\views\\requests\\sistrix\\domain\\job\\show.blade.php"
+			],
+			[
+				"sistrixjobscon",
+				"app\\Http\\Controllers\\Sistrix\\SistrixJobsController.php"
+			],
+			[
+				"requestshow",
+				"resources\\views\\requests\\googlesearchanalytics\\show.blade.php"
+			],
+			[
+				"sistrixjobshow",
+				"resources\\views\\requests\\sistrix\\domain\\job\\show.blade.php"
+			],
+			[
+				"insertgsadownloads",
+				"app\\Listeners\\InsertGsaDownloads.php"
+			],
+			[
+				"sistrixedit",
+				"resources\\views\\settings\\simpleapis\\sistrix\\edit.blade.php"
+			],
+			[
+				"sistrixclient",
+				"app\\Libraries\\SistrixClient.php"
+			],
+			[
+				"sistrixdow",
+				"app\\SistrixDownload.php"
+			],
+			[
+				"sistrixconf",
+				"app\\Http\\Controllers\\Sistrix\\SistrixConfigurationsController.php"
+			],
+			[
+				"createsistrixdownloadsta",
+				"database\\migrations\\2017_04_26_092301_create_sistrixdownloads_table.php"
+			],
+			[
+				"sistrixdownloa",
+				"app\\SistrixDownload.php"
+			],
+			[
+				"sistrixdownlo",
+				"app\\Http\\Controllers\\Sistrix\\SistrixdownloadsController.php"
+			],
+			[
+				"sistrixmethod",
+				"app\\SistrixMethod.php"
+			],
+			[
+				"createsistrixmetri",
+				"database\\migrations\\2017_05_12_140117_create_sistrixmetrics_table.php"
+			],
+			[
+				"sistrixdomain",
+				"app\\SistrixDomain.php"
+			],
+			[
+				"creategsametrics",
+				"database\\migrations\\2016_11_17_083038_create_gsametrics_table.php"
+			],
+			[
+				"createsistrixmetrics",
+				"database\\migrations\\2017_05_12_140117_create_sistrixmetrics_table.php"
+			],
+			[
+				"gsccontrol",
+				"app\\Http\\Controllers\\GscController.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"gsccontro",
+				"app\\Http\\Controllers\\GscController.php"
+			],
+			[
+				"normaliz",
+				"app\\Jobs\\NormalizeGsaResponses.php"
+			],
+			[
+				"responseexception",
+				"app\\Exceptions\\ResponseException.php"
+			],
+			[
+				"sistrix.php",
+				"app\\Libraries\\Sistrix.php"
+			],
+			[
+				"sistrixdownload",
+				"app\\SistrixDownload.php"
+			],
+			[
+				"createsistrixdownloads",
+				"app\\Listeners\\CreateSistrixDownloads.php"
+			],
+			[
+				"apicallssistrix",
+				"app\\Jobs\\ApiCallsSistrix.php"
+			],
+			[
+				"gsarequestscon",
+				"app\\Http\\Controllers\\GoogleSearchAnalytics\\GsaRequestsController.php"
+			],
+			[
+				"sistrixdomainscon",
+				"app\\Http\\Controllers\\Sistrix\\SistrixDomainsController.php"
+			],
+			[
+				"segmentationscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\SegmentationsController.php"
+			],
+			[
+				"sistrixdownloadcon",
+				"app\\Http\\Controllers\\Sistrix\\SistrixdownloadsController.php"
+			],
+			[
+				"gsadownload",
+				"app\\GsaDownload.php"
+			],
+			[
+				"helper",
+				"app\\Libraries\\helpers.php"
+			],
+			[
+				"routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"segmentgroupshow",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\show.blade.php"
+			],
+			[
+				"createsistrixdownta",
+				"database\\migrations\\2017_04_26_092301_create_sistrixdownloads_table.php"
+			],
+			[
+				"sistrixrequest",
+				"app\\SistrixRequest.php"
+			],
+			[
+				"segmentgrouindex",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\index.blade.php"
+			],
+			[
+				"requestcreate",
+				"resources\\views\\requests\\googlesearchanalytics\\create.blade.php"
+			],
+			[
+				"phrasesegmentshow",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\show.blade.php"
+			],
+			[
+				"googleaccount",
+				"app\\GoogleAccount.php"
+			],
+			[
+				"phrasesegmentblade",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\show.blade.php"
+			],
+			[
+				"userscon",
+				"app\\Http\\Controllers\\UsersController.php"
+			],
+			[
+				"googleaccountedit",
+				"resources\\views\\settings\\googleaccounts\\edit.blade.php"
+			],
+			[
+				"requestsistrixcreate",
+				"resources\\views\\requests\\sistrix\\create.blade.php"
+			],
+			[
+				"requestsistrixindex",
+				"resources\\views\\requests\\sistrix\\index.blade.php"
+			],
+			[
+				"sistrixrequestscon",
+				"app\\Http\\Controllers\\Sistrix\\SistrixRequestsController.php"
+			],
+			[
+				"createsegmentgroups",
+				"database\\migrations\\2017_03_02_095443_create_segmentgroups_table.php"
+			],
+			[
+				"createurlpattern",
+				"database\\migrations\\2016_11_30_104536_create_urlpatterns_table.php"
+			],
+			[
+				"createurlsegment",
+				"database\\migrations\\2016_11_30_102214_create_urlsegments_table.php"
+			],
+			[
+				"createsistrixjob",
+				"database\\migrations\\2017_04_26_100136_create_sistrixjobs_table.php"
+			],
+			[
+				"createsistrixreq",
+				"database\\migrations\\2017_04_26_121243_create_sistrixrequests_table.php"
+			],
+			[
+				"createsistrixdomains",
+				"database\\migrations\\2017_04_26_100718_create_sistrixdomains_table.php"
+			],
+			[
+				"createsistrixjobs",
+				"database\\migrations\\2017_04_26_100136_create_sistrixjobs_table.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"gsaproperty",
+				"app\\GsaProperty.php"
+			],
+			[
+				"gsarequestscontroller",
+				"app\\Http\\Controllers\\GoogleSearchAnalytics\\GsaRequestsController.php"
+			],
+			[
+				"createsistrixrequest",
+				"database\\migrations\\2017_04_26_121243_create_sistrixrequests_table.php"
+			],
+			[
+				"createsistrixdomain",
+				"database\\migrations\\2017_04_26_100718_create_sistrixdomains_table.php"
+			],
+			[
+				"gsarequest",
+				"app\\GsaRequest.php"
+			],
+			[
+				"jobsegmen",
+				"app\\Jobs\\SegmentGsaData.php"
+			],
+			[
+				"segment",
+				"app\\Jobs\\SegmentGsaPhrases.php"
+			],
+			[
+				"segmentgroup",
+				"app\\SegmentGroup.php"
+			],
+			[
+				"phrasesegmentscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\PhraseSegmentsController.php"
+			],
+			[
+				"segmentgroupscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\SegmentGroupsController.php"
+			],
+			[
+				"segmentationfilter",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\segmentations\\filter.blade.php"
+			],
+			[
+				"segmentshow",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\show.blade.php"
+			],
+			[
+				"phrasesegment",
+				"app\\PhraseSegment.php"
+			],
+			[
+				"phrasesegshow",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\show.blade.php"
+			],
+			[
+				"urlsegmentscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\UrlSegmentsController.php"
+			],
+			[
+				"urlpatternscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\UrlPatternsController.php"
+			],
+			[
+				"urlsegedit",
+				"resources\\views\\datagroupsandsegments\\urlsegments\\edit.blade.php"
+			],
+			[
+				"urlsegshow",
+				"resources\\views\\datagroupsandsegments\\urlsegments\\show.blade.php"
+			],
+			[
+				"urlpatterns",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\UrlPatternsController.php"
+			],
+			[
+				"urlsegshow.b",
+				"resources\\views\\datagroupsandsegments\\urlsegments\\show.blade.php"
+			],
+			[
+				"urlsegmentscreate",
+				"resources\\views\\datagroupsandsegments\\urlsegments\\create.blade.php"
+			],
+			[
+				"urlsegmentscont",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\UrlSegmentsController.php"
+			],
+			[
+				"urlsegmentc",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\UrlSegmentsController.php"
+			],
+			[
+				"phrasepatternscon",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\PhrasePatternsController.php"
+			],
+			[
+				"urlsegmentshow",
+				"resources\\views\\datagroupsandsegments\\urlsegments\\show.blade.php"
+			],
+			[
+				"phrasesegmentedit",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\edit.blade.php"
+			],
+			[
+				"urlsegment",
+				"app\\UrlSegment.php"
+			],
+			[
+				"segmentgroupedit",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\edit.blade.php"
+			],
+			[
+				"nav.blade",
+				"resources\\views\\partials\\nav.blade.php"
+			],
+			[
+				"phrasesegmeindex",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\index.blade.php"
+			],
+			[
+				"phrasesegmentcreate",
+				"resources\\views\\datagroupsandsegments\\phrasesegments\\create.blade.php"
+			],
+			[
+				"segmentgroupcreate",
+				"resources\\views\\datagroupsandsegments\\segmentgroups\\create.blade.php"
+			],
+			[
+				"creategsametics",
+				"database\\migrations\\2016_11_17_083038_create_gsametrics_table.php"
+			],
+			[
+				"dropgsametci",
+				"database\\migrations\\2017_05_09_101132_drop_gsametrics_tables.php"
+			],
+			[
+				"sistrixservice",
+				"app\\Providers\\SistrixServiceProvider.php"
+			],
+			[
+				"sistrixser",
+				"app\\Providers\\SistrixServiceProvider.php"
+			],
+			[
+				"sistrixservicepro",
+				"app\\Providers\\SistrixServiceProvider.php"
+			],
+			[
+				"segmentgroupurl",
+				"database\\migrations\\2017_03_02_095639_create_segmentgroup_urlsegment_table.php"
+			],
+			[
+				"createphraseseg",
+				"database\\migrations\\2016_11_30_102127_create_phrasesegments_table.php"
+			],
+			[
+				"createurlsegments",
+				"database\\migrations\\2016_11_30_102214_create_urlsegments_table.php"
+			],
+			[
+				"createphrasesegment",
+				"database\\migrations\\2016_11_30_102127_create_phrasesegments_table.php"
+			],
+			[
+				"segmentgroupphrasese",
+				"database\\migrations\\2017_03_02_095621_create_segmentgroup_phrasesegment_table.php"
+			],
+			[
+				"createsegmentgropurlsegm",
+				"database\\migrations\\2017_03_02_095639_create_segmentgroup_urlsegment_table.php"
+			],
+			[
+				"createurlsegem",
+				"database\\migrations\\2016_11_30_102214_create_urlsegments_table.php"
+			],
+			[
+				"changerelation",
+				"database\\migrations\\2017_05_08_083021_change_urlsegments_relations.php"
+			],
+			[
+				"changerelatio",
+				"database\\migrations\\2017_05_08_082956_change_phrasesegments_relations.php"
+			],
+			[
+				"datagroupedit",
+				"resources\\views\\datagroupsandsegments\\datagroups\\edit.blade.php"
+			],
+			[
+				"datagroup.js",
+				"public\\js\\datagroups.js"
+			],
+			[
+				"segmentgroup.js",
+				"public\\js\\segmentgroups.js"
+			],
+			[
+				"datagroupscontro",
+				"app\\Http\\Controllers\\DataGroupsAndSegments\\DataGroupsController.php"
+			],
+			[
+				"normalizegsarespon",
+				"app\\Jobs\\NormalizeGsaResponses.php"
+			],
+			[
+				"datagroupshow",
+				"resources\\views\\datagroupsandsegments\\datagroups\\show.blade.php"
+			],
+			[
+				"requestpropertyshow",
+				"resources\\views\\requests\\googlesearchanalytics\\property\\job\\show.blade.php"
+			],
+			[
+				"eloquentbuilder",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
