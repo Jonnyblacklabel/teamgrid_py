@@ -180,38 +180,12 @@
 	"buffers":
 	[
 		{
-			"file": "teamgrid_py/teamgrid_py.py",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1171,
+				"buffer_size": 1025,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "teamgrid_py/base.py",
-			"settings":
-			{
-				"buffer_size": 1800,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "teamgrid_py/endpoints.py",
-			"settings":
-			{
-				"buffer_size": 4396,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "teamgrid_py/response.py",
-			"settings":
-			{
-				"buffer_size": 765,
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -621,13 +595,15 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py",
-		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py"
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py"
 	],
 	"file_history":
 	[
-		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/errors.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/response.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/endpoints.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/teamgrid_py.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/base.py",
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/errors.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/setup.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/teamgrid_py/teamgrid_py/__init__.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/metrics_tools/metrics_tools/__init__.py",
@@ -750,10 +726,7 @@
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/sistrix_api.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/utils.py",
 		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/client.py",
-		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/__init__.py",
-		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/api.py",
-		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
-		"/C/Users/JohannesKunze/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings"
+		"/E/Dropbox (Privat)/01_work/02_Development/01_python/sistrix/tools/__init__.py"
 	],
 	"find":
 	{
@@ -796,139 +769,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "teamgrid_py/teamgrid_py.py",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1171,
+						"buffer_size": 1025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								875,
-								875
+								592,
+								592
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "teamgrid_py/base.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1800,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "teamgrid_py/endpoints.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4396,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1284,
-								1284
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 810.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "teamgrid_py/response.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 765,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
