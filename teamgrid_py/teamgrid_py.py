@@ -1,55 +1,56 @@
-#       _                         __    __           __   __      __         __
-#      (_)___  ____  ____  __  __/ /_  / /___ ______/ /__/ /___ _/ /_  ___  / /
-#     / / __ \/ __ \/ __ \/ / / / __ \/ / __ `/ ___/ //_/ / __ `/ __ \/ _ \/ / 
-#    / / /_/ / / / / / / / /_/ / /_/ / / /_/ / /__/ ,< / / /_/ / /_/ /  __/ /  
-# __/ /\____/_/ /_/_/ /_/\__, /_.___/_/\__,_/\___/_/|_/_/\__,_/_.___/\___/_/   
-#/___/                  /____/                                                 
+#        _                         __    __           __   __      __         __
+#       (_)___  ____  ____  __  __/ /_  / /___ ______/ /__/ /___ _/ /_  ___  / /
+#      / / __ \/ __ \/ __ \/ / / / __ \/ / __ `/ ___/ //_/ / __ `/ __ \/ _ \/ /
+#     / / /_/ / / / / / / / /_/ / /_/ / / /_/ / /__/ ,< / / /_/ / /_/ /  __/ /
+#  __/ /\____/_/ /_/_/ /_/\__, /_.___/_/\__,_/\___/_/|_/_/\__,_/_.___/\___/_/
+# /___/                  /____/
 #
 #
 # author: Johannes Kunze
-# date: 2018-05-01   
+# date: 2018-05-01
 # web: http://www.jonnyblacklabel.de/
 # twitter: @jonnyblacklabel
-# 
+#
 
 from .base import TeamGridPyBase
-from .endpoints import Users, Times, Tasks, Projects, Teams, Contacts
+from .endpoints import Users, Times, Tasks, Projects, Teams, Contacts, Services
+
 
 class TeamGridPy():
-	"""Teamgrid API
-	
-	Make calls to Teamgrid API
+    """Teamgrid API
+    Make calls to Teamgrid API
+    Usage
+    =====
+    from teamgrid_py import TeamGridPy
+    api_key = 'your api key'
+    tgpy = TeamGridPy(api_key, verbose=True)
+    user = tgpy.users().where(email='someone@example.com').get()
+    """
 
-	Usage
-	=====
-	from teamgrid_py import TeamGridPy
+    def __init__(self, api_key, *args, **kwargs):
+        self.__client = TeamGridPyBase(api_key, *args, **kwargs)
 
-	api_key = 'your api key'
-	tgpy = TeamGridPy(api_key, verbose=True)
+    def users(self):
+        return Users(self.__client)
 
-	user = tgpy.users().where(email='someone@example.com').get()
-	"""
+    def times(self):
+        return Times(self.__client)
 
-	def __init__(self, api_key, *args, **kwargs):
+    def tasks(self):
+        return Tasks(self.__client)
 
-		self.__client = TeamGridPyBase(api_key, *args, **kwargs)
+    def teams(self):
+        return Teams(self.__client)
 
+    def contacts(self):
+        return Contacts(self.__client)
 
-	def users(self):
-		return Users(self.__client)
-	def times(self):
-		return Times(self.__client)
-	def tasks(self):
-		return Tasks(self.__client)
-	def teams(self):
-		return Teams(self.__client)
-	def contacts(self):
-		return Contacts(self.__client)
-	def projects(self):
-		return Projects(self.__client)
+    def projects(self):
+        return Projects(self.__client)
 
-
+    def services(self):
+        return Services(self.__client)
 
 
 if __name__ == '__main__':
-	pass
+    pass
