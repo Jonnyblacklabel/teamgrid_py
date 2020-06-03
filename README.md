@@ -36,6 +36,9 @@ The response is parsed into a simple object with fields as object attributes. Ad
   'userId': 'xxx'}]
 ```
 
+## Install
+pip install git+https://github.com/Jonnyblacklabel/teamgrid_py
+
 
 API limit
 =========

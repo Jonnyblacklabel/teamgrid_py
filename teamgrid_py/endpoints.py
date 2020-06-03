@@ -157,7 +157,21 @@ class Tasks(Paginatable, Selectable, ReadWrite):
             userId=None,
             contactId=None,
             projectId=None,
-            completed=None):
+            completed=None,
+            archived=None,
+            updatedAtFrom=None,
+            updatedAtTo=None,
+            createdAtFrom=None,
+            createdAtTo=None,
+            plannedStartFrom=None,
+            plannedStartTo=None,
+            plannedEndFrom=None,
+            plannedEndTo=None,
+            scheduledStartFrom=None,
+            scheduledStartTo=None,
+            scheduledEndFrom=None,
+            scheduledEndTo=None,
+            IncludeScheduledWork=None):
         """filter request
         Parameters
         ----------
@@ -169,12 +183,54 @@ class Tasks(Paginatable, Selectable, ReadWrite):
             filter by projectId
         completed : {bool}, optional
             filter by state
+        archived : {bool}, optional
+            Filters archived tasks
+        updatedAtFrom : {date, 'yyyy-mm-dd'}, optional
+            Last update of this task is after this date
+        updatedAtTo : {date, 'yyyy-mm-dd'}, optional
+            Last update of this task is before this date
+        createdAtFrom : {date, 'yyyy-mm-dd'}, optional
+            Creation of this task is after this date
+        createdAtTo : {date, 'yyyy-mm-dd'}, optional
+            Creation of this task is before this date
+        plannedStartFrom : {date, 'yyyy-mm-dd'}, optional
+            Planned start of this task is after this date
+        plannedStartTo : {date, 'yyyy-mm-dd'}, optional
+            Planned start of this task is before this date
+        plannedEndFrom : {date, 'yyyy-mm-dd'}, optional
+            Planned end of this task is after this date
+        plannedEndTo : {date, 'yyyy-mm-dd'}, optional
+            Planned end of this task is before this date
+        scheduledStartFrom : {date, 'yyyy-mm-dd'}, optional
+            Scheduled start of this task is after this date
+        scheduledStartTo : {date, 'yyyy-mm-dd'}, optional
+            Scheduled start of this task is before this date
+        scheduledEndFrom : {date, 'yyyy-mm-dd'}, optional
+            Scheduled end of this task is after this date
+        scheduledEndTo : {date, 'yyyy-mm-dd'}, optional
+            Scheduled end of this task is before this date
+        IncludeScheduledWork :  {bool}, optional
+            Specifies whether scheduled work should also be returned for every task
         """
         self.service.params = {
             'userId': userId,
             'contactId': contactId,
             'projectId': projectId,
-            'completed': completed
+            'completed': completed,
+            'archived': archived,
+            'updatedAtFrom': updatedAtFrom,
+            'updatedAtTo': updatedAtTo,
+            'createdAtFrom': createdAtFrom,
+            'createdAtTo': createdAtTo,
+            'plannedStartFrom': plannedStartFrom,
+            'plannedStartTo': plannedStartTo,
+            'plannedEndFrom': plannedEndFrom,
+            'plannedEndTo': plannedEndTo,
+            'scheduledStartFrom': scheduledStartFrom,
+            'scheduledStartTo': scheduledStartTo,
+            'scheduledEndFrom': scheduledEndFrom,
+            'scheduledEndTo': scheduledEndTo,
+            'IncludeScheduledWork': IncludeScheduledWork
         }
         return self
 
